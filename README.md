@@ -38,7 +38,7 @@ Testing the database connection and Rest API via Postman.
 ![SS6](https://user-images.githubusercontent.com/113076563/223151510-707b87fb-2714-4884-bcc9-6c95bf51cb1a.jpg)
 
 
-### Note: Niel & Dan hasn't notified about the AWS student credentials yet. Inorder to avoid the risk associated with entering the credit card details, I haven't deployed it to AWS Beanstalk. 
+### Note: Neil & Dan hasn't notified about the AWS student credentials yet. Inorder to avoid the risk associated with entering the credit card details, I haven't deployed it to AWS Beanstalk. 
 
 Kind Regards
 Francis Alex

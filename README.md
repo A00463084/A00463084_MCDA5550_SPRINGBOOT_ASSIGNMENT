@@ -11,7 +11,7 @@ A#: A00463084
 
 ## 1. Database
 
-Database: Microsoft SQL Server
+Database: Microsoft SQL Server (Details about Database Provided @application.properties file)
 
 Screenshot of table: Hotel
 
